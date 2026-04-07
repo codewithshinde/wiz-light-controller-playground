@@ -1,8 +1,5 @@
-Here's a comprehensive README file with you as the contributor and owner:
-
 ## `README.md`
 
-```markdown
 # 💡 WiZ Light Controller - Smart Lighting API & UI
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/codewithshinde/wiz-light-controller)
