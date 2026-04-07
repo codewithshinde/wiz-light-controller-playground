@@ -2,6 +2,8 @@
 
 # 💡 WiZ Light Controller - Smart Lighting API & UI
 
+<img width="3016" height="1648" alt="image" src="https://github.com/user-attachments/assets/b6040622-9722-459f-a34b-5a1d1223bd9d" />
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/codewithshinde/wiz-light-controller)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
